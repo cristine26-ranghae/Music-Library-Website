@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music>
+    <song id="1">
+        <songTitle>Palagi</songTitle>
+        <artist>Tj Monterde</artist>
+        <albums>
+            <album>Sariling Mundo</album>
+            <album>Ikaw at Ako</album>
+            <album>Kahit Kunwarip</album>
+        </albums>
+        <debutYear>2011</debutYear>
+    </song>
+    <song id="2">
+        <songTitle>My Heart Will Go On</songTitle>
+        <artist>Celine Dion</artist>
+        <albums>
+            <album>I love You</album>
+            <album>Courage</album>
+            <album>One Heart</album>
+        </albums>
+        <debutYear>1981</debutYear>
+    </song>
+    <song id="3">
+        <songTitle>Paubaya</songTitle>
+        <artist>Moira Dela Torre</artist>
+        <albums>
+            <album>Patawad</album>
+            <album>Malaya</album>
+            <album>Tagu-Taguan</album>
+        </albums>
+        <debutYear>2013</debutYear>
+    </song>
+    <song id="4">
+        <songTitle>Pyramid</songTitle>
+        <artist>Jake Zyrus</artist>
+        <albums>
+            <album>Infinity</album>
+            <album>My Inspiration</album>
+            <album>Evolution</album>
+        </albums>
+        <debutYear>2008</debutYear>
+    </song>
+    <song id="5">
+        <songTitle>Rolling In The Deep</songTitle>
+        <artist>Adele</artist>
+        <albums>
+            <album>iTune Festival:London 2011</album>
+            <album>iTune live from SoHo</album>
+            <album>Adele Live at the Royal Album</album>
+        </albums>
+        <debutYear>2008</debutYear>
+    </song>
+</music>
